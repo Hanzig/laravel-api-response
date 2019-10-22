@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Firebit\laravel\ApiResponse;
+namespace Firebit\Laravel\ApiResponse;
 
 
 class ApiResponseCode
